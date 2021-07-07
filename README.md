@@ -7,4 +7,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcellowww&show_icons=true&locale=en" alt="marcellowww" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcellowww&" alt="marcellowww" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcellowww&theme=dark" alt="marcellowww" /></p>
