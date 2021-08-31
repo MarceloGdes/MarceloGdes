@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://instagram.com/marceloserrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marceloserrr" height="30" width="40" /></a>
 <a href="https://discord.gg/Trashi#0260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Trashi#0260" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marcelo-guedes-29031821a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelo-guedes-29031821a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
