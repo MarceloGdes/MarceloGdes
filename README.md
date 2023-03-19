@@ -2,7 +2,7 @@
 <h3 align="center">👨‍💻Dev em formação!</h3>
 
 
-- 🌱Atualmente estou aprendendo: **JavaScript**
+- 🌱Atualmente estou aprendendo: **NODE.js, sql**
 
 
 <a class="stats" href="https://github.com/anuraghazra/github-readme-stats">
