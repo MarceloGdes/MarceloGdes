@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍Toledo/PR - Brasil <br>🎓Acadêmico em análise e desenvolvimento de sistemas [2/6]<br>🌱Atualmente aprendendo **Node.js, React.js, Scss e Google Firebase**
+📍Toledo/PR - Brasil <br>🎓Acadêmico em análise e desenvolvimento de sistemas [2/6]<br>🌱Atualmente aprendendo **Node.js, React.js, Sass e Google Firebase**
 
 
 ## 🌐 Socials:
