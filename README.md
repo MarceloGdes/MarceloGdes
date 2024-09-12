@@ -1,5 +1,5 @@
 # 💫 About Me:
-📍Paraná - Brasil <br>🎓Acadêmico em análise e desenvolvimento de sistemas [3/6]<br>🌱Atualmente aprendendo **Java | Spring-boot**
+📍Paraná - Brasil <br>🎓Acadêmico em análise e desenvolvimento de sistemas [3/6]<br>🌱Atualmente aprendendo **Java | Spring-boot | C# | .NET | SQL**
 
 
 ## 🌐 Socials:
