@@ -1,4 +1,4 @@
-# .👋🏻 Saudações!
+# 👋🏻 Saudações!
 📍Paraná - Brasil <br>🎓Acadêmico em análise e desenvolvimento de sistemas [5/6]<br>🧑🏻‍💻Analista de Suporte<br>🌱Atualmente aprendendo **Java | Spring-boot | C# | .NET | SQL Server | ANDROID**
 
 
