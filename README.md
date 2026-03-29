@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Marcelo Guedes! 👋🏻
 
-**Desenvolvedor Back-end Jr. | Analista e Desenvolvedor de Software**
+**Desenvolvedor Back-end Jr.**
 
 📍 Paraná, Brasil &nbsp;|&nbsp; 🎓 Análise e Desenvolvimento de Sistemas
 
